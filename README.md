@@ -1,6 +1,6 @@
 # FALL: Face Away Lock Logic
 
-**FALL** stands for **Face Away Lock Logic** (or “Face-Away Auto-Lock Library”)—a cross-platform Python tool that locks your screen when it no longer detects a face for a specified period. Built using **Mediapipe** and **OpenCV**, it leverages real-time webcam input to detect user presence.
+**FALL** stands for **Face Away Lock Logging** (or “Face-Away Auto-Lock Library”)—a cross-platform Python tool that locks your screen when it no longer detects a face for a specified period. Built using **Mediapipe** and **OpenCV**, it leverages real-time webcam input to detect user presence.
 
 ## Features
 - **Real-Time Detection:** Continuously monitors webcam input to identify if a face is present.
